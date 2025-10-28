@@ -1,3 +1,7 @@
 # ☀️ Project CV
 
-[reference](https://roadmap.sh/projects/single-page-cv)
+_I created this for practice css._
+
+## Reference
+
+[click here to get the reference for this project](https://roadmap.sh/projects/single-page-cv)
