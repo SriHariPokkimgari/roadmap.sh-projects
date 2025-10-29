@@ -39,4 +39,4 @@ _In this project I used positions and flex layout_
 
 ## Reference
 
-[click](https://roadmap.sh/projects/changelog-component)
+[roadmap.sh](https://roadmap.sh/projects/changelog-component)
